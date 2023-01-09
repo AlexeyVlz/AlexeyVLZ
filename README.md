@@ -14,9 +14,7 @@ alt="альтернативный текст"> </h3 align="center">
 В НАСТОЯЩЕЕ ВРЕМЯ:  
 - участвую в проекте по разработке личного кабинета для клиентов оптовой компании:  
 <img src="partnerslk.png">  
-В качестве СУБД используем <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="100" height="20" >
-, для контейнеризации <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="100" height="20">
-, для взаимодействия с БД <span style="color: blue"> Hibernate, JPQL, Predicate </span>  
+В качестве СУБД используем <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="100" height="20" > , для контейнеризации <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="100" height="20"> , для взаимодействия с БД <span style="color: blue"> Hibernate, JPQL, Predicate </span>  
  
   
 - занимаюсь пет проетом:   
